@@ -3,7 +3,7 @@
 I am a first year Software Development student, who decided to have fun sharing my projects :)
 
 You can contact me via:
-- www.artjomsafonoff.xyz (might not be available)
+- http://www.artjomsafonoff.xyz (might not be available)
 - @artjom_safonoff on telegram
 
 <!---
