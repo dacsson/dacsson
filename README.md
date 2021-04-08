@@ -3,7 +3,7 @@
 I am a first year Software Development student, who decided to have fun creating and sharing my projects :)
 
 You can contact me via:
-- artjomsafonoff.xyz - personal blog
+- https://ww.artjomsafonoff.xyz - personal blog
 - @artjom_safonoff on telegram
 ##
 ## Салют! 
@@ -11,7 +11,7 @@ You can contact me via:
 Я студент первого курса "Программной инженерии", который заинтересован в создании и распростронении моих "проектов" :)
 
 Мои контакты:
-- artjomsafonoff.xyz - персональный сайт
+- https://ww.artjomsafonoff.xyz - персональный сайт
 - @artjom_safonoff в телеграме
 
 <!---
