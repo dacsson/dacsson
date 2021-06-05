@@ -3,7 +3,7 @@
 I am a first year Software Development student, who decided to have fun creating and sharing my projects :)
 
 You can contact me via:
-- https://www.artjomsafonoff.xyz - personal blog
+- https://www.artjomsafonoff.xyz - personal blog (under construction)
 - @artjom_safonoff on telegram
 ##
 ## Салют! 
@@ -11,10 +11,5 @@ You can contact me via:
 Я студент первого курса "Программной инженерии", который заинтересован в создании и распростронении моих "проектов" :)
 
 Мои контакты:
-- https://www.artjomsafonoff.xyz - персональный сайт
+- https://www.artjomsafonoff.xyz - персональный сайт (в процессе разработки)
 - @artjom_safonoff в телеграме
-
-<!---
-dacsson/dacsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
