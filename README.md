@@ -1,6 +1,6 @@
 ## Salute! 
 
-I am a first year Software Development student, who decided to have fun creating and sharing my projects :)
+I'm a first year Software Development student, who decided to have fun creating and sharing my projects :)
 
 You can contact me via:
 - https://www.artjomsafonoff.xyz - personal blog (under construction)
