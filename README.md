@@ -1,6 +1,6 @@
 ## Salute! 
 
-I'm a first year Software Development student, who decided to have fun creating and sharing my projects :)
+I'm a second year Software Development student, who decided to have fun creating and sharing my projects :)
 
 You can contact me via:
 - https://www.artjomsafonoff.xyz - personal blog (under construction)
@@ -8,7 +8,7 @@ You can contact me via:
 ##
 ## Салют! 
 
-Я студент первого курса "Программной инженерии", который заинтересован в создании и распростронении моих "проектов" :)
+Я студент второго курса "Программной инженерии", который заинтересован в создании и распростронении моих "проектов" :)
 
 Мои контакты:
 - https://www.artjomsafonoff.xyz - персональный сайт (в процессе разработки)
