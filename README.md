@@ -3,8 +3,8 @@
 Я студент 3 курса "Программной инженерии", который заинтересован в создании и распростронении моих "проектов" :)
 
 <p align='left'>
-  <a href='https://vk.com/bobiinski' width='50' height='50'>
-    <img src='VK_logo.png'>
+  <a href='https://vk.com/bobiinski'>
+    <img src='VK_logo.png' width='50'>
   </a>
 <p>
 Мои контакты:
