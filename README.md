@@ -4,7 +4,7 @@
 
 <p align='center'>
   <a href='https://vk.com/bobiinski'>
-    <img src='VK_logo.png' width='150'>
+    <img src='VK_logo.png' height='150'>
   </a>
 <p>
 Мои контакты:
