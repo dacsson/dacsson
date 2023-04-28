@@ -48,6 +48,6 @@
     <img src='TG.png' height='30'>
   </a>
   <a href='https://habr.com/ru/users/dacsson'
-     <img src='HABR.png' height = '30'>
+     <a>Хабр</a>
   </a>
 <p>
