@@ -36,6 +36,7 @@
 ### C++
   - [Обучение Алгоритму Прима и его реализация](https://github.com/dacsson/PrimAlgorithm) | + SQL, Qt
   - [Обучение умножению матриц методом Винограда и его реализация](https://github.com/dacsson/Slicer) | + SQL, Qt
+  - [Визуализация решения задачи о встрече и её реализация](https://github.com/HandsAndKeyboards/AppointmentProblem) | + OpenGL, Qt
 ### D
   - [Собственная реализация различных контейнеров](https://github.com/dacsson/SCMLib)
 
