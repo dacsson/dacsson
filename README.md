@@ -30,6 +30,8 @@
   - [Представление и работа с графами](https://github.com/dacsson/AlgorithmsOnGraphs)
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
+### C# 
+  - [Реализация авторизации с помощью JWT-токенов](https://github.com/dacsson/asp.net-jwt)
 ### Python
   - [Автоматический постинг информации из реддита в сообщество ВК](https://github.com/dacsson/RedditToVk) | + VK API
   - [Классический бот для сообщества ВК](https://github.com/dacsson/ScienceBot) | + VK API
