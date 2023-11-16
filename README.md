@@ -32,6 +32,7 @@
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
 ### C# 
   - [Реализация авторизации с помощью JWT-токенов](https://github.com/dacsson/asp.net-jwt)
+  - ["ИИ" игрок в крестики-нолики на алгоритме Монте-Карло](https://github.com/dacsson/TicTacToe_19x19_bot)
 ### Python
   - [Автоматический постинг информации из реддита в сообщество ВК](https://github.com/dacsson/RedditToVk) | + VK API
   - [Классический бот для сообщества ВК](https://github.com/dacsson/ScienceBot) | + VK API
