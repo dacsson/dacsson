@@ -28,6 +28,7 @@
 ### ReactJS
   - [Сайт для операторов мобильной сети](https://github.com/dacsson/MobileCommunication) | + PostgreSQL
   - [Представление и работа с графами](https://github.com/dacsson/AlgorithmsOnGraphs)
+  - [Онлайн выставка антикварных книг](https://github.com/dacsson/biblioteka_antique_books) | NextJS + MaterialUI + FramerMotion
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
 ### C# 
