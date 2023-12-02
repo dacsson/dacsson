@@ -27,7 +27,7 @@
 ## 🔨 Проекты
 ### ReactJS
   - [Классический CRUD](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
-  - [Представление и работа с графами](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router, React.Components
+  - [Представление и работа с графами и алгоритмами на графах](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router, React.Components
   - [Онлайн выставка антикварных книг](https://github.com/dacsson/biblioteka_antique_books) | + NextJS, MaterialUI, FramerMotion, React.Components
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
