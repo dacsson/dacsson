@@ -26,13 +26,13 @@
 
 ## 🔨 Проекты
 ### ReactJS
-  - [Сайт для операторов мобильной сети](https://github.com/dacsson/MobileCommunication) | + PostgreSQL
-  - [Представление и работа с графами](https://github.com/dacsson/AlgorithmsOnGraphs)
-  - [Онлайн выставка антикварных книг](https://github.com/dacsson/biblioteka_antique_books) | NextJS + MaterialUI + FramerMotion
+  - [Сайт для операторов мобильной сети](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
+  - [Представление и работа с графами](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router, React.Components
+  - [Онлайн выставка антикварных книг](https://github.com/dacsson/biblioteka_antique_books) | + NextJS, MaterialUI, FramerMotion, React.Components
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
 ### C# 
-  - [Реализация авторизации с помощью JWT-токенов](https://github.com/dacsson/asp.net-jwt)
+  - [Реализация авторизации с помощью JWT-токенов](https://github.com/dacsson/asp.net-jwt) | + Swagger
   - ["ИИ" игрок в крестики-нолики на алгоритме Монте-Карло](https://github.com/dacsson/TicTacToe_19x19_bot)
 ### Python
   - [Автоматический постинг информации из реддита в сообщество ВК](https://github.com/dacsson/RedditToVk) | + VK API
