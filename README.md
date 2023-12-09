@@ -49,7 +49,7 @@
   <a href='https://vk.com/bobiinski'>
     <img src='VK.png' height='30'>
   </a>
-  <a href='https://t.me/artjom_safonoff'>
+  <a href='https://t.me/artemii_safonoff'>
     <img src='TG.png' height='30'>
   </a>
   <a href='https://habr.com/ru/users/dacsson'
