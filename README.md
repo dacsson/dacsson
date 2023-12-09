@@ -29,6 +29,7 @@
   - [Классический CRUD](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
   - [Представление и работа с графами и алгоритмами на графах](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router, React.Components
   - [Онлайн выставка антикварных книг](https://github.com/dacsson/biblioteka_antique_books) | + NextJS, MaterialUI, FramerMotion, React.Components
+  - [Сайт с разделением аккаунтов по уровням доступа](https://github.com/dacsson/accounts_with_access_matrix) | + NextJS, MdbUI, Redis
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
 ### C# 
