@@ -29,7 +29,7 @@
   - [Классический CRUD](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
   - [Представление и работа с графами и алгоритмами на графах](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router
   - [Онлайн выставка антикварных книг](https://github.com/dacsson/biblioteka_antique_books) | + NextJS, MaterialUI, FramerMotion
-  - [Сайт с разделением аккаунтов по уровням доступа](https://github.com/dacsson/accounts_with_access_matrix) | + MdbUI, Redis
+  - [Сайт с разделением аккаунтов по уровням доступа](https://github.com/dacsson/accounts_with_access_matrix) | + MdbUI, Redis, NodeJS Express
   - [Сервис по анализу акций компаний для торговых решений](https://github.com/dacsson/trading_helper) | + NextJS, MaterialUI, MaterialCharts, FramerMotion
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
