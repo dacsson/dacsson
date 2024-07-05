@@ -40,6 +40,7 @@
 ### Python
   - [Автоматический постинг информации из реддита в сообщество ВК](https://github.com/dacsson/RedditToVk) | + VK API
   - [Классический бот для сообщества ВК](https://github.com/dacsson/ScienceBot) | + VK API
+  - [Социальное исследование о религиозности и воцерквлённости](https://github.com/dacsson/religion_analysis) | + sklearn 
 ### C++
   - [Обучение Алгоритму Прима и его реализация](https://github.com/dacsson/PrimAlgorithm) | + SQL, Qt
   - [Обучение умножению матриц методом Винограда и его реализация](https://github.com/dacsson/Slicer) | + SQL, Qt
