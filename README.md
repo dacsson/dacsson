@@ -32,6 +32,7 @@
   - [Сайт с разделением аккаунтов по уровням доступа](https://github.com/dacsson/accounts_with_access_matrix) | + MdbUI, Redis, NodeJS Express
   - [Сервис по анализу акций компаний для торговых решений](https://github.com/dacsson/trading_helper) | + NextJS, MaterialUI, MaterialCharts, FramerMotion
   - [Мобильное приложения для работы с заметками](https://github.com/dacsson/notes_app) | + ReactNative, ReactNativePaper
+  - [Сервис рекомендаций обучающих курсов на основе вакансий](https://github.com/5bit-course-selection-application/frontend) | + ReactContext, MaterialUI 
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
 ### C# 
