@@ -36,7 +36,7 @@
   - [Сервис по поиску репозитариев на гитхаб](https://github.com/dacsson/github_repo_searcher) | + Redux, MaterialUI
   - [Просмотр CSV-файлов](https://github.com/dacsson/csv_reader) | + MaterialUI, ReactContext
 ### NestJS
-  - [https://github.com/dacsson/csv_reader](https://github.com/dacsson/csv_reader) | + Swagger, Docker
+  - [Просмотр CSV-файлов](https://github.com/dacsson/csv_reader) | + Swagger, Docker
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
 ### C# 
