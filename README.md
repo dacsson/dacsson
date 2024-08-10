@@ -25,7 +25,7 @@
 <br />
 
 ## 🔨 Проекты
-### ReactJS
+### ReactJS (TypeScript)
   - [Классический CRUD](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
   - [Представление и работа с графами и алгоритмами на графах](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router
   - [Онлайн выставка антикварных книг](https://github.com/dacsson/biblioteka_antique_books) | + NextJS, MaterialUI, FramerMotion
@@ -34,6 +34,9 @@
   - [Мобильное приложения для работы с заметками](https://github.com/dacsson/notes_app) | + ReactNative, ReactNativePaper
   - [Сервис рекомендаций обучающих курсов на основе вакансий](https://github.com/5bit-course-selection-application/frontend) | + ReactContext, MaterialUI 
   - [Сервис по поиску репозитариев на гитхаб](https://github.com/dacsson/github_repo_searcher) | + Redux, MaterialUI
+  - [Просмотр CSV-файлов](https://github.com/dacsson/csv_reader) | + MaterialUI, ReactContext
+### NestJS
+  - [https://github.com/dacsson/csv_reader](https://github.com/dacsson/csv_reader) | + Swagger, Docker
 ### Vanilla JS
   - [Лексический анализатор Python](https://github.com/dacsson/LexicAnalyzer)
 ### C# 
