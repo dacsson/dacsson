@@ -25,6 +25,13 @@
 <br />
 
 ## 🔨 Проекты
+### C/C++
+  - [Обучение Алгоритму Прима и его реализация](https://github.com/dacsson/PrimAlgorithm) | + SQL, Qt
+  - [Обучение умножению матриц методом Винограда и его реализация](https://github.com/dacsson/Slicer) | + SQL, Qt
+  - [Визуализация решения задачи о встрече и её реализация](https://github.com/HandsAndKeyboards/AppointmentProblem) | + OpenGL, Qt
+  - [Ремейк команд линукса на C](https://github.com/dacsson/linux_cmds)
+  - [Отрисовка на ЖК-дисплее МЭЛТ МТ-1223 на STM32](https://github.com/dacsson/STM32_Display) | + STM32
+  - [Строитель абстрактного синтаксического графа для файлов C](https://github.com/dacsson/libclang_asg_c) | + libclang 
 ### ReactJS (TypeScript)
   - [Классический CRUD](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
   - [Представление и работа с графами и алгоритмами на графах](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router
@@ -46,10 +53,6 @@
   - [Автоматический постинг информации из реддита в сообщество ВК](https://github.com/dacsson/RedditToVk) | + VK API
   - [Классический бот для сообщества ВК](https://github.com/dacsson/ScienceBot) | + VK API
   - [Социальное исследование о религиозности и воцерквлённости](https://github.com/dacsson/religion_analysis) | + sklearn 
-### C++
-  - [Обучение Алгоритму Прима и его реализация](https://github.com/dacsson/PrimAlgorithm) | + SQL, Qt
-  - [Обучение умножению матриц методом Винограда и его реализация](https://github.com/dacsson/Slicer) | + SQL, Qt
-  - [Визуализация решения задачи о встрече и её реализация](https://github.com/HandsAndKeyboards/AppointmentProblem) | + OpenGL, Qt
 
 ## 😏 Мои контакты:
 <p align='сenter'>
