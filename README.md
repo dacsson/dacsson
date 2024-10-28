@@ -30,9 +30,10 @@
   - [Обучение Алгоритму Прима и его реализация](https://github.com/dacsson/PrimAlgorithm) | + SQL, Qt
   - [Обучение умножению матриц методом Винограда и его реализация](https://github.com/dacsson/Slicer) | + SQL, Qt
   - [Визуализация решения задачи о встрече и её реализация](https://github.com/HandsAndKeyboards/AppointmentProblem) | + OpenGL, Qt
-  - [Ремейк команд линукса на C](https://github.com/dacsson/linux_cmds)
+  - [Ремейк команд линукса на C](https://github.com/dacsson/linux_cmds) | + socket
   - [Отрисовка на ЖК-дисплее МЭЛТ МТ-1223 на STM32](https://github.com/dacsson/STM32_Display) | + STM32
-  - [Строитель абстрактного синтаксического графа для файлов C](https://github.com/dacsson/libclang_asg_c) | + libclang 
+  - [Строитель абстрактного синтаксического графа для файлов C](https://github.com/dacsson/libclang_asg_c) | + libclang
+  - [Управление RGB-дисплеем подключённым к RaspberryPI3 через UART](https://github.com/dacsson/uart_rgb_raspi) | + RaspberryPI, UART, socket
 ### ReactJS (TypeScript)
   - [Классический CRUD](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
   - [Представление и работа с графами и алгоритмами на графах](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router
