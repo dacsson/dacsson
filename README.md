@@ -26,24 +26,23 @@
 <br />
 
 ## 🔨 Проекты
-### C/C++
-  - [Обучение Алгоритму Прима и его реализация](https://github.com/dacsson/PrimAlgorithm) | + SQL, Qt
-  - [Обучение умножению матриц методом Винограда и его реализация](https://github.com/dacsson/Slicer) | + SQL, Qt
-  - [Визуализация решения задачи о встрече и её реализация](https://github.com/HandsAndKeyboards/AppointmentProblem) | + OpenGL, Qt
-  - [Ремейк команд линукса на C](https://github.com/dacsson/linux_cmds) | + socket
-  - [Отрисовка на ЖК-дисплее МЭЛТ МТ-1223 на STM32](https://github.com/dacsson/STM32_Display) | + STM32
+### C/C++  
   - [Строитель абстрактного синтаксического графа для файлов C](https://github.com/dacsson/libclang_asg_c) | + libclang
-  - [Управление RGB-дисплеем подключённым к RaspberryPI3 через UART](https://github.com/dacsson/uart_rgb_raspi) | + RaspberryPI, UART, socket
+  - [Отрисовка на ЖК-дисплее МЭЛТ МТ-1223 на STM32](https://github.com/dacsson/STM32_Display) | + STM32
+  - [Ремейк команд линукса на C](https://github.com/dacsson/linux_cmds) | + socket
+  - [Визуализация решения задачи о встрече и её реализация](https://github.com/HandsAndKeyboards/AppointmentProblem) | + OpenGL, Qt
+  - [Обучение умножению матриц методом Винограда и его реализация](https://github.com/dacsson/Slicer) | + SQL, Qt
+  - [Обучение Алгоритму Прима и его реализация](https://github.com/dacsson/PrimAlgorithm) | + SQL, Qt
 ### ReactJS (TypeScript)
-  - [Классический CRUD](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
+  - [Сервис рекомендаций обучающих курсов на основе вакансий](https://github.com/5bit-course-selection-application/frontend) | + ReactContext, MaterialUI 
+  - [Сервис по поиску репозитариев на гитхаб](https://github.com/dacsson/github_repo_searcher) | + Redux, MaterialUI
+  - [Просмотр CSV-файлов](https://github.com/dacsson/csv_reader) | + MaterialUI, ReactContext
   - [Представление и работа с графами и алгоритмами на графах](https://github.com/dacsson/AlgorithmsOnGraphs) | + Router
   - [Онлайн выставка антикварных книг](https://github.com/dacsson/biblioteka_antique_books) | + NextJS, MaterialUI, FramerMotion
   - [Сайт с разделением аккаунтов по уровням доступа](https://github.com/dacsson/accounts_with_access_matrix) | + MdbUI, Redis, NodeJS Express
   - [Сервис по анализу акций компаний для торговых решений](https://github.com/dacsson/trading_helper) | + NextJS, MaterialUI, MaterialCharts, FramerMotion
   - [Мобильное приложения для работы с заметками](https://github.com/dacsson/notes_app) | + ReactNative, ReactNativePaper
-  - [Сервис рекомендаций обучающих курсов на основе вакансий](https://github.com/5bit-course-selection-application/frontend) | + ReactContext, MaterialUI 
-  - [Сервис по поиску репозитариев на гитхаб](https://github.com/dacsson/github_repo_searcher) | + Redux, MaterialUI
-  - [Просмотр CSV-файлов](https://github.com/dacsson/csv_reader) | + MaterialUI, ReactContext
+  - [Классический CRUD](https://github.com/dacsson/MobileCommunication) | + PostgreSQL, NodeJS Express
 ### NestJS
   - [Просмотр CSV-файлов](https://github.com/dacsson/csv_reader) | + Swagger, Docker
 ### Vanilla JS
